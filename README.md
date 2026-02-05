@@ -7,7 +7,7 @@ I'm currently studying Applied Computer Science at HTWG Konstanz, with a strong 
 
 ---
 
-### 📬 Contact Me
+### Contact Me
 
 - **Email**: [AhmedAdnanz041@gmail.com](mailto:AhmedAdnanz041@gmail.com)
 - **LinkedIn**: [linkedin.com/in/ahmedadnan41](https://linkedin.com/in/ahmedadnan41)
